@@ -136,7 +136,6 @@ The dataset consists of **1,00,000 records** related to ride bookings from OLA.
 ---
 
 ## 👨‍💻 Author
-- **Your Name**
-- [LinkedIn Profile] (Optional)
-- [GitHub Repository] (Optional)
+- **RAKESH YAMJALA**
+
 
